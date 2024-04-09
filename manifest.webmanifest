@@ -1,13 +1,13 @@
 {
     "name": "Snake pvp",
     "short_name": "Snake pvp",
-    "start_url": "index.html",
+    "start_url": "https://cdn.jsdelivr.net/gh/Jeremylinyh/ProgressiveSnake@main/index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
     "description": "SnakePVP",
     "icons": [{
-      "src": "TemplateData/icons/unity-logo-dark.png",
+      "src": "https://cdn.jsdelivr.net/gh/Jeremylinyh/ProgressiveSnake@main/TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
